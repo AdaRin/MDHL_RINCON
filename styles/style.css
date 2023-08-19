@@ -82,3 +82,28 @@ article>p {
     text-indent: 30px;
 }
 
+
+table{
+    text-align: center;
+
+}
+
+.caption2{
+    caption-side: bottom;
+}
+
+
+.descripcion{
+    width: 12rem;
+}
+
+.detalles{
+    width: 9rem;
+}
+
+
+.contenedor-tabla {
+    position: absolute;
+    left: 400px;
+    top: 80px;
+}
